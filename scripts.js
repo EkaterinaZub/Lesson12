@@ -58,5 +58,13 @@ console.log(a1, typeof a16);
 console.log(a1, typeof a17);
 console.log(a1, typeof a18);
 
-    
+    // задача №4
 
+    let h = 10;
+        d = a7;
+        r = a7 / 2;
+        pi = 3.14;
+
+  const VCilindra = pi*r**2*h;
+
+console.log(VCilindra.toFixed(2));
